@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Terminar GUI angular",
+      "day": "Domingo 22 de mayo",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Terminar GUI angular proyecto Balum",
+      "day": "Domingo 22 de mayo",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Escuchar nuevo album de bad bunny",
+      "day": "Domingo 22 de mayo",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Aprender a hacer strafe shooting",
+      "day": "Domingo 22 de mayo",
+      "reminder": false
+    },
+    {
+      "text": "ASDADS",
+      "day": "asdasda",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "aaaaa",
+      "day": "aaaaa",
+      "reminder": true,
+      "id": 9
+    },
+    {
+      "text": "sdadfasff",
+      "day": "sadf",
+      "id": 10
+    }
+  ]
+}
